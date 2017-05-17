@@ -1,0 +1,6 @@
+Syntax
+mergeFeatures.py --input=<file.embl>
+
+Output
+file_merged.embl <-- This contains the merged features
+file_corrected.embl
