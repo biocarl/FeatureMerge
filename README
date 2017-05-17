@@ -1,3 +1,7 @@
+Merges the qualifiers of two features with the same end-position
+
+
+
 Syntax
 mergeFeatures.py --input=<file.embl>
 
